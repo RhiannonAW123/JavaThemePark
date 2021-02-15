@@ -1,7 +1,8 @@
 import behaviours.IReviewed;
 
+import java.util.ArrayList;
+
 public class ThemePark {
 
-    private Ar
-                    rrayList<IReviewed> themelist;
+    private ArrayList<IReviewed> themelist;
 }
