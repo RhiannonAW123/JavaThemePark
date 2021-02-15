@@ -52,7 +52,6 @@ public class RollercoasterTest {
 
     @Test
     public void hasSpecialPrice(){
-        visitor1.getHeight();
         assertEquals(16.80, rollerCoaster.priceFor(visitor1),0.0);
     }
 }

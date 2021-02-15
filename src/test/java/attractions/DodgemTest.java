@@ -40,7 +40,6 @@ public class DodgemTest {
 
     @Test
     public void hasSpecialPrice(){
-        visitor1.getAge();
         assertEquals(2.25, dodgems.priceFor(visitor1),0.0);
     }
 
